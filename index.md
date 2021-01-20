@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome to Car Park Department
+        title: Welcome to Car Park Departments
         subtitle: Buy season parking, pay parking fines and more
         background: /images/hero-banner.png
         button: Contact Us
