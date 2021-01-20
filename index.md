@@ -11,22 +11,22 @@ sections:
         subtitle: Buy season parking, pay parking fines and more
         background: /images/hero-banner.png
         button: Contact Us
-        url: /contact-us/
+        url: https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Renew Season Parking
+              description: Renew your season parking using this e-Service
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Pay Parking Fines
+              description: Pay your parking fine using this e-Service
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: e-Service listing
+              description: See all car park related e-Services
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: FAQs
+        subtitle: Car Park
+        description: click the below to know some important information before transacting
+        button: Lets go
         url: /faq/
     - resources:
         title: Media
