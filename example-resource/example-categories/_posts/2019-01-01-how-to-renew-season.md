@@ -1,4 +1,4 @@
 ---
-title: "How to buy season parking?"
+title: "How to renew season parking?"
 permalink: "/example-resource/example-categories/test"
 ---
