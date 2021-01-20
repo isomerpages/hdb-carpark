@@ -29,8 +29,8 @@ sections:
         button: Lets go
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: All e-Services
+        subtitle: Access
+        button: Click here
 ---
 
