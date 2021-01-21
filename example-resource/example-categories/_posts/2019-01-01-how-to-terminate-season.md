@@ -16,7 +16,11 @@ Yes, refunds are **calculated from the day after you do the termination.**
 ### Why cant I terminate my season parking?
 As season parking is for long-term use and sold on a calendar month basis, **termination of pro-rated season parking** (find out more here) is subject to fulfilment of a long-term period
 ### What is a pro-rated season parking and how long is the long-term period I have to fulfill before I can terminate it?
-While season parking is sold on a calendar month basis, long term usage is rewarded with pro-rated charges for the first month if you purchase in the middle of the month. Long-term usage is defined as minimally a pro-rated month and an additional month. You can only terminate after this period is fulfilled.
+While season parking is sold on a calendar month basis, long term usage is rewarded with pro-rated charges for the first month if you purchase in the middle of the month. 
+
+<br>Long-term usage is defined as minimally a pro-rated month and an additional month. 
+
+<br>You can only terminate after this period is fulfilled.
 #### Example
 1. You bought a season parking that starts in 10th January and expires on 31st March
 2. As your purchase is in the middle of the month, you will enjoy a pro-rated rate for the month of January
