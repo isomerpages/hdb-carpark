@@ -1,8 +1,9 @@
 ---
 title: How to renew your season parking
-permalink: /example-collection/permalink
+permalink: /season-parking-guides/permalink
 third_nav_title: Renew Season Parking
 ---
+
 # How to renew?
 You can renew your season parking via our Renewal of Season Parking e-Service
 
