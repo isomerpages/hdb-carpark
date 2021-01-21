@@ -12,7 +12,7 @@ For example,
 2. You **terminate your season parking on 20th March**
 3. You will receive a refund for 21st March (one day after termination was done) to 31st March
 4. You can still park in the car park for the whole of 20th March
-<br>You will receive your refund via the payment mode you made e.g. credit card, bank account etc
+<br>We will credit the refund to your bank account within 2 weeks
 
 #### Why cant I terminate my season parking?
 As season parking is for long-term use and sold on a calendar month basis, **termination of pro-rated season parking** (find out more here) is subject to fulfilment of a specific period.
