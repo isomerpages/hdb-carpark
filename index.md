@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome to Car Park Departments
+        title: Welcome to Season Parking Portal
         subtitle: Buy, renew, terminate, change your season parking and more!
         background: /images/hero-banner.png
-        button: Speak to our assistant
+        button: Speak to an assistant
         url: https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
         key_highlights:
             - title: Renew Season Parking
