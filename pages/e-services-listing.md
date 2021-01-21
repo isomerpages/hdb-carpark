@@ -2,13 +2,33 @@
 title: e-Services Listing
 permalink: /Example-page
 ---
-### **FAQ**
+### Click on the options below for quick access to the relevant e-Services
 
-[Click here to go to hehehe](#hehehe)
+[ Season Parking Infomation ](#hehehe)
+<br>e.g. Check season parking expiry, next renewal date, season parking availability
+<br>[ Renewal of Season Parking ](#hehehe)
+<br>e.g. Renew season parking, vehicle parking certificate,  automate renewal using GIRO, Credit Card etc)]<br>
+[ Purchase of Season Parking  ](#hehehe)<br>
+[Transfer of Season Parking](#hehehe)
+<br>e.g. Change season parking to another vehicle, change season parking to another car park
+<br>[Add-Ons to Season Parking](#hehehe)
+<br>e.g. island-wide parking(for **motorcyclists** only) , subsidised parking at family member's car park)
 
-# Renewal Related
-1. Renew Season Parking without SingPass
-2. Automatic renewal using GIRO
+# Season Parking Information
+| e-Service Name| Description | Things to note|
+| -------- | -------- | -------- |
+| View/Print List of Season Parking     | Check your season parking expiry date<br>Print your acknowledgement slip| You will require SingPass     |
+| Enquiry of Season Parking Information     | Check which car parks have vacancies for Season Parking   | All OCBC bank users enjoy instant approval     |
+| Automatic Renewal Using Credit Card   | Automate  your renewals using your credit card   | Enjoy instant approval     |
+
+# Renewals 
+| e-Service Name| Description | Things to note|
+| -------- | -------- | -------- |
+| Renewal of Season Parking without SingPass     | Renewal your season parking without having to login with SingPass    | Payment can be made using Credit Card or Debit Card     |
+| Automatic Renewal Using GIRO     | Automate  your renewals using GIRO and enjoy 2% rebate    | All OCBC bank users enjoy instant approval     |
+| Automatic Renewal Using Credit Card   | Automate  your renewals using your credit card   | Enjoy instant approval     |
+
+
 
 VPC, Automatic renewal by GIRO, Credit Card etc)	1.	E020004 - Renewal of Season Parking (Non-SingPass)
 2.	E020003 - GIRO Payment for Renewal of Season Parking Charges
