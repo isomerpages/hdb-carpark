@@ -6,7 +6,6 @@ permalink: "/example-resource/example-categories/test"
 You can terminate your season parking via our Termination of Season Parking service if you do not need it anymore.
 ### Will I get a refund?
 Yes, refunds are **calculated from the day after you do the termination.** 
-
 <br>For example, 
 1. You bought a season parking that starts in 1st January and expires on 31st March
 2. You **terminate your season parking on 20th March**
