@@ -22,9 +22,6 @@ sections:
             - title: e-Service listing
               description: See all car park related e-Services
               url: /privacy/
-              - title: e-Service listing
-              description: See all car park related e-Services
-              url: /privacy/
     - infobar:
         title: FAQs
         subtitle: Car Park
