@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  Season Parking Guides:
+  season-parking-guides:
     output: true
 resources_name: example-resource
 description: An Isomer site of the Singapore Government
