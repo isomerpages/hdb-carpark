@@ -28,7 +28,7 @@ sections:
         description: click the below to know some important information before transacting
         button: Lets go
         url: /faq/
-        - infopic:
+    - infopic:
         title: Integrity
         subtitle: Core Values
         description: Integrity drives everything we do at the Ministry of ABC
