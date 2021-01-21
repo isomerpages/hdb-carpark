@@ -30,20 +30,20 @@ sections:
       button: Lets go
       url: /faq/
   - infopic:
-      title: Integrity
-      subtitle: Core Values
-      description: Integrity drives everything we do at the Ministry of ABC
-      button: Learn More
+      title: e-Services
+      subtitle: Access all season parking
+      description: Our suite of e-Services cater to 99.2% of our services!
+      button: Get started
       url: /core-values/
-      image: /images/integrity.png
+      image: /images/e-Services.PNG
       alt: Members of the Ministry of ABC shaking hands
   - infopic:
-      title: Professionalism
-      subtitle: Core Values
-      description: We strive to deliver work of the highest calibre
-      button: Learn More
+      title: Application Guides
+      subtitle: Access All season parking
+      description: Our guides tell you everything you need to know about season parking
+      button: Read up
       url: /core-values/
-      image: /images/professionalism.png
+      image: /images/Guides.PNG
       alt: Members of the Ministry of ABC in suits
   - resources:
       title: Season Parking Guides
