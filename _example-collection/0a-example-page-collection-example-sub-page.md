@@ -1,5 +1,5 @@
 ---
-title: Example Sub Page
+title: How to terminate?
 permalink: /example-collection/example-page-collection/example-sub-page
 third_nav_title: Example Page Collection
 ---
