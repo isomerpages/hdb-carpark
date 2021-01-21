@@ -1,16 +1,9 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Season Parking e-Services
     url: /contact-us/
   - title: Season Parking Guides
-    collection: example-collection
+    collection: Season Parking Guides
   - title: Contact Us
     url: /contact-us/
   - title: Contact Us
