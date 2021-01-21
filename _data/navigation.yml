@@ -7,11 +7,11 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
+  - title: Season Parking e-Services
     url: /contact-us/
   - title: Season Parking Guides
-    url: /Example-page/
-  - title: Season Parking e-Service
     collection: example-collection
-  - title: Example Resource
+  - title: Contact Us
+    url: /contact-us/
+  - title: Contact Us
     resource_room: true
