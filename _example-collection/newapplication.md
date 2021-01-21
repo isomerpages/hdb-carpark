@@ -1,5 +1,5 @@
 ---
-title: How to buy a new season parking?
+title: New Season Parking
 permalink: /example-collection/example-page-collection/example
 third_nav_title: How to buy a new season parking?
 ---
