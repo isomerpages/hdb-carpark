@@ -3,13 +3,19 @@ title: "How to terminate season parking?"
 permalink: "/example-resource/example-categories/test"
 ---
 Termination Procedure
-You can terminate your season parking if you do not need it anymore, and we will refund you the unexpired season parking charges. Requests for a refund must be made prior to the termination, and we will not backdate refunds. 
+<br>You can terminate your season parking if you do not need it anymore, and we will refund you the unexpired season parking charges. 
+<br>Requests for a refund must be made prior to the termination, and we will not backdate refunds. 
 
-How to terminate?
-You can terminate your season parking via our Termination of Season Parking service.
+<br>How to terminate?
+<br>You can terminate your season parking via our Termination of Season Parking service.
 
-Will you get a refund?
-The amount of season parking charges to be refunded will be calculated from the day after you do the termination. For example, if you  terminate your season parking on 1st January, refund will be given for 2nd January until the expiry date of your season parking. Please see the below illustration
+<br>Will you get a refund?
+<br>The amount of season parking charges to be refunded will be calculated from the day after you do the termination. 
+<br>For example, 
+1. Jack bought a season parking that expires on 31st January
+2. Jack terminates his season parking on 20th January
+3. Jack will receive a refund for 21st January to 31st January
+4. Jack can still park in the car park for the whole of 20th January
 
 First-time purchasers can apply season parking for the current month with full rate or buy a longer-term season parking with pro-rated charge for the current month plus following month(s). As season parking is for long-term use and sold on a calendar month basis, termination of the pro-rated season parking (i.e. current month and subsequent month) is not allowed.
 
