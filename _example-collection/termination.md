@@ -1,7 +1,7 @@
 ---
-title: How to terminate?
+title: Terminate Season Parking
 permalink: /example-collection/example-page-collection/example-sub-page
-third_nav_title: How to terminate season parking?
+third_nav_title: How to terminate my season parking?
 ---
 # How do I terminate my season parking?
 You can terminate your season parking via our Termination of Season Parking service if you do not need it anymore.
