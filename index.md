@@ -14,15 +14,19 @@ sections:
       url: >-
         https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
       key_highlights:
-        - title: Renew Season Parking
-          description: Renew your season parking using this e-Service
-          url: 'https://google.com'
-        - title: Pay Parking Fines
-          description: Pay your parking fine using this e-Service
+        - title: Auto Renewal of Season Parking
+          description: Enjoy 2% rebate using GIRO!
+          url: >-
+            https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp
+        - title: Change Vehicle Temporarily
+          description: Park with another vehicle!
           url: 'https://gmail.com'
-        - title: e-Service listing
-          description: See all car park related e-Services
+        - title: New season parking e-service
+          description: Enjoy season parking!
           url: /privacy/
+        - title: View more e-services
+          description: Access all e-Services
+          url: s
   - infobar:
       title: FAQs
       subtitle: Car Park
