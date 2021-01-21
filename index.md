@@ -11,6 +11,8 @@ sections:
         subtitle: Buy season parking, pay parking fines and more
         background: /images/hero-banner.png
         button: Contact Us
+        button: Contact Us
+        button: Contact Us
         url: https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
         key_highlights:
             - title: Renew Season Parking
