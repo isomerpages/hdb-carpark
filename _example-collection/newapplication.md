@@ -26,4 +26,3 @@ A season parking that expires at the end of the month of application and hence i
 2. You want to buy a season parking till the end of January only
 3. This is a short-term season parking as it is less than one month
 4. You will have to pay for 1st January to 31st January as season parking is sold on a calendar month basis
-
