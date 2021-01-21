@@ -1,7 +1,7 @@
 ---
-title: New Season Parking
+title: How to buy a new season parking?
 permalink: /example-collection/example-page-collection/example
-third_nav_title: How to buy a new season parking?
+third_nav_title: New Season Parking
 ---
 # What are the types of season parking?
 There are 3 types of season parking
