@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome to Season Parking Portal
+        title: Welcome to <br> Season Parking Portal
         subtitle: Buy, renew, terminate, change your season parking and more!
         background: /images/hero-banner.png
         button: Speak to an assistant
