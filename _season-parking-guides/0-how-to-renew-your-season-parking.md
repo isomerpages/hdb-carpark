@@ -1,6 +1,6 @@
 ---
 title: How to renew your season parking
-permalink: /season-parking-guides/permalink
+permalink: /season-parking-guides/
 third_nav_title: Renew Season Parking
 ---
 
