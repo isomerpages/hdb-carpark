@@ -1,6 +1,6 @@
 ---
 title: How to buy a new season parking?
-permalink: /example-collection/example-page-collection/example
+permalink: /season-parking-guides/permalink
 third_nav_title: New Season Parking
 ---
 
