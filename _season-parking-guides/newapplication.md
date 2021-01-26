@@ -1,6 +1,6 @@
 ---
 title: How to buy a new season parking?
-permalink: /new-application/
+permalink: /new-application
 third_nav_title: New Season Parking
 ---
 
