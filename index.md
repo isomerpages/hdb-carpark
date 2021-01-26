@@ -46,7 +46,7 @@ sections:
       subtitle: Access All season parking
       description: Our guides tell you everything you need to know about season parking
       button: Read up
-      url: /new-application/
+      url: /test/
       image: /images/Guides.PNG
       alt: Members of the Ministry of ABC in suits
   - resources:
