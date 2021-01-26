@@ -1,6 +1,6 @@
 ---
 title: How to terminate my season parking?
-permalink: /example-collection/example-page-collection/example-sub-page
+permalink: /season-parking-guides/permalink
 third_nav_title: Terminate Season Parking
 ---
 
