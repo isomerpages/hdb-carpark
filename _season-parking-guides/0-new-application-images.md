@@ -13,5 +13,5 @@ The cost of season parking can vary with the following:
 1.  Location of season parking
 2.  Type of car park
 3.  Your resident status
-4.  The number of vehicles you have
-You can check how much does season parking cost here (enquiry of season parking information e-Service)
+4.  The number of vehicles you have<br><br>
+You can check how much does season parking cost **here** (enquiry of season parking information e-Service)
