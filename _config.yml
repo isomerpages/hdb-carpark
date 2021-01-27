@@ -2,7 +2,7 @@ title: Title
 url: ''
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: '#6031b6'
+  primary-color: '#00838f'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections: 
+collections:
   season-parking-guides:
     output: true
 resources_name: example-resource
