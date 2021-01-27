@@ -20,7 +20,7 @@ Below are common needs for doing a transfer for doing it:
 The relevant charges, if applicable, for the different transactions are as follows:
 
 ##### Change in Vehicles
-| **Transfer From** |  **Transfer To** | **Charges** |
+| **Transfer From** |  **Transfer To**| **Charges** |
 | -------- | -------- | -------- |
 | Motorcycle     | Car/ Lorry/ Mini bus/ Van/ Light Goods Vehicle     | Yes,  you will have to top-up the difference     |
 | Car/ Lorry/ Mini bus/ Van/ Light Goods Vehicle     | Motorcycle     | No, you will be refunded the difference     |
@@ -29,7 +29,7 @@ The relevant charges, if applicable, for the different transactions are as follo
 
 ##### Change in Car Parks
 
-| **Transfer From** |  **Transfer To** | **Charges** |
+| **Transfer From** |  **Transfer To**| **Charges** |
 | -------- | -------- | -------- |
 | Surface Car Park     | Multi-Storey Car Park     | Yes,  you will have to top-up the difference     |
 | Multi-Storey Car Park    | Surface Car Park    | No,  you will be refunded the difference     |
