@@ -21,6 +21,7 @@ Below are some examples of why/when you might need to do so:
 The relevant charges, if applicable, for the different transactions are as follows:
 
 ##### Change in Vehicles
+
 | **Transfer From** |  **Transfer To**| **Charges** |
 | -------- | -------- | -------- |
 | Motorcycle     | Car/ Lorry/ Mini bus/ Van/ Light Goods Vehicle     | Yes,  you will have to top-up the difference     |
@@ -29,6 +30,7 @@ The relevant charges, if applicable, for the different transactions are as follo
 | Same Vehicle Type      | Same Vehicle Type     | No top-ups or refunds     |
 
 ##### Change in Car Parks
+
 | **Transfer From** |  **Transfer To**| **Charges** |
 | -------- | -------- | -------- |
 | Surface Car Park     | Multi-Storey Car Park     | Yes,  you will have to top-up the difference     |
