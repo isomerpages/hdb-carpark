@@ -15,7 +15,9 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections: {}
+collections: 
+  season-parking-guides:
+    output: true
 resources_name: example-resource
 description: An Isomer site of the Singapore Government
 permalink: none
