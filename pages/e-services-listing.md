@@ -15,6 +15,7 @@ permalink: /Example-page
 <br>e.g. island-wide parking(for **motorcyclists** only) , subsidised parking at family member's car park)
 
 #### Season Parking Information
+
 | e-Service Name| Description | Things to note|
 | -------- | -------- | -------- |
 | View/Print List of Season Parking     | Check your season parking expiry date<br>Print your acknowledgement slip| You will require SingPass     |
@@ -22,6 +23,7 @@ permalink: /Example-page
 | Automatic Renewal Using Credit Card   | Automate  your renewals using your credit card   | Enjoy instant approval     |
 
 #### Renewals 
+
 | e-Service Name| Description | Things to note|
 | -------- | -------- | -------- |
 | Renewal of Season Parking without SingPass     | Renewal your season parking without having to login with SingPass    | Payment can be made using Credit Card or Debit Card     |
@@ -29,6 +31,7 @@ permalink: /Example-page
 | Automatic Renewal Using Credit Card   | Automate  your renewals using your credit card   | Enjoy instant approval     |
 
 #### Transfer of Season Parking
+
 | e-Service Name| Description | Things to note|
 | -------- | -------- | -------- |
 | Temporary Transfer of Season Parking - Vehicle     | Change your season parking to another vehicle for a period of less than 30 days   | Payment can be made using Credit Card or Debit Card     |
