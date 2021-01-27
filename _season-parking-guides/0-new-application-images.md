@@ -6,8 +6,8 @@ permalink: /images
 #### What are the types of season parking?
 These are the  2 most common  season parking
 :![](/images/Seaso.PNG)
-##### Why do i have to pay for the whole month when I purchase a short-term season parking ?
-Season parking is for **long-term use and sold on a calendar month basis**,  so pro-rated charges are only given to long-term purchases.
+##### Why are  charges for the short-term parking calculated from 1st January instead of 15th January?
+Season parking is for **long-term use and sold on a calendar month basis**,  so pro-rated charges (charging from the date of purchase and not the start of the month) are only given to long-term purchases.
 #### How much does season parking cost?
 The cost of season parking can vary with the following:
 1.  Location of season parking
