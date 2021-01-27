@@ -18,6 +18,7 @@ Below are common needs for doing a transfer for doing it:
 
 #### Are there any charges for doing a transfer?
 The relevant charges, if applicable, for the different transactions are as follows:
+
 ##### Change in Vehicles
 | **Transfer From** |  **Transfer To** | **Charges** |
 | -------- | -------- | -------- |
@@ -27,6 +28,7 @@ The relevant charges, if applicable, for the different transactions are as follo
 | Same Vehicle Type      | Same Vehicle Type     | No top-ups or refunds     |
 
 ##### Change in Car Parks
+
 | **Transfer From** |  **Transfer To** | **Charges** |
 | -------- | -------- | -------- |
 | Surface Car Park     | Multi-Storey Car Park     | Yes,  you will have to top-up the difference     |
