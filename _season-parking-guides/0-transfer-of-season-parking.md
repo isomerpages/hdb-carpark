@@ -2,16 +2,17 @@
 title: Transfer of Season Parking
 permalink: /transfers
 ---
-# What is a transfer of season parking?
+## Transfer of Season Parking
+#### What is a transfer of season parking?
 A transfer of season parking can be done when you wish to park with another vehicle or in another car park.
 
-Below are common needs for doing a transfer for doing it:
+#### When should I do a transfer?
+Below are some examples of why/when you might need to do so:
 
-
-| **User need** |  **Things to note**| **e-Service** |
+| **Example** |  **Important Info**| **e-Service** |
 | -------- | -------- | -------- |
-|   Bought a new car, Changed to a new car permanently   | After doing this transaction, you have to wait 30 days before you can do it again     | Permanent Transfer of Season Parking -Vehicle     |
-|   Moved house, want to park somewhere else permanently   | After doing this transaction, you have to wait 30 days before you can do it again     | Permanent Transfer of Season Parking -Car Park     |
+|   Bought a new car <br>Changed to a new car permanently   | After doing this transaction, you have to wait 30 days before you can do it again     | Permanent Transfer of Season Parking -Vehicle     |
+|   Moved house <br>Want to park somewhere else permanently   | After doing this transaction, you have to wait 30 days before you can do it again     | Permanent Transfer of Season Parking -Car Park     |
 |   Using another vehicle, Using new vehicle before transferring ownership<br>Car dealer/rental company   | You can only do this for a maximum of 31 days <br>You can only change to the same vehicle type e.g.  Car to Car| Temporary Transfer of Season Parking -Vehicle     |
 |   Going overseas,<br>Reservist training, <br>Hospitalisation, Confinement<br> Medical care for family member(s), Bereavement, Flat under renovation| You can only do this for a maximum of 31 days <br>After doing this transaction for the third time, you have to wait 6 months before you can do it again     | Temporary Transfer of Season Parking -Car Park     |
 
