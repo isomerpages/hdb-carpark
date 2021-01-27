@@ -20,6 +20,7 @@ Below are common needs for doing a transfer for doing it:
 The relevant charges, if applicable, for the different transactions are as follows:
 
 ##### Change in Vehicles
+
 | **Transfer From** |  **Transfer To**| **Charges** |
 | -------- | -------- | -------- |
 | Motorcycle     | Car/ Lorry/ Mini bus/ Van/ Light Goods Vehicle     | Yes,  you will have to top-up the difference     |
