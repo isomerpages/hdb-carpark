@@ -19,7 +19,6 @@ Below are some examples of why/when you might need to do so:
 
 #### Are there any charges for doing a transfer?
 The relevant charges, if applicable, for the different transactions are as follows:
-
 ##### Change in Vehicles
 
 | **Transfer From** |  **Transfer To**| **Charges** |
