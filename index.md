@@ -46,7 +46,7 @@ sections:
       subtitle: Access All season parking
       description: "Our guides tell you everything you need to know about season parking \U0001F697 \U0001F695 \U0001F3CD\U0001F69A"
       button: Read up
-      url: /_season-parking-guides/
+      url: /images
       image: /images/Guides.PNG
       alt: Members of the Ministry of ABC in suits
   - resources:
