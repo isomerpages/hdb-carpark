@@ -15,14 +15,14 @@ sections:
         https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
       key_highlights:
         - title: Auto Renewal of Season Parking
-          description: Enjoy 2% rebate using GIRO!
+          description: "Enjoy 2% rebate using GIRO! \U0001F4B3"
           url: >-
             https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp
         - title: Change Vehicle Temporarily
-          description: Park with another vehicle!
+          description: "Park with another vehicle!\U0001F697\U0001F4C6"
           url: 'https://gmail.com'
         - title: New season parking e-service
-          description: Enjoy season parking!
+          description: "Enjoy season parking!\U0001F697"
           url: /privacy/
         - title: View more e-services
           description: Access all e-Services
