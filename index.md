@@ -4,13 +4,13 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "This website is still a work in progress \U0001F605"
 sections:
   - hero:
       title: Welcome to Season Parking
       subtitle: 'Buy, renew, terminate, change your season parking and more!'
       background: /images/Season Parking.PNG
-      button: Speak to an assistant
+      button: "Speak to an assistant \U0001F469‍\U0001F4BC "
       url: >-
         https://hdbva.hdb.gov.sg/iconverse-bot-server/bots/198799d9-98a0-4e3f-8bfe-f2aebaf2c9c5/preview
       key_highlights:
