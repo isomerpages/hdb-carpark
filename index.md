@@ -36,15 +36,15 @@ sections:
   - infopic:
       title: e-Services
       subtitle: Access all season parking
-      description: Our suite of e-Services cater to 99.2% of our services!
+      description: "Our suite of e-Services cater to 99.2% of our services! \U0001F4BB\U0001F4F1 "
       button: Get started
       url: /Example-page/
       image: /images/e-Services.PNG
       alt: Members of the Ministry of ABC shaking hands
   - infopic:
-      title: Application Guides
+      title: 'Application Guides '
       subtitle: Access All season parking
-      description: Our guides tell you everything you need to know about season parking
+      description: "Our guides tell you everything you need to know about season parking \U0001F697 \U0001F695 \U0001F3CD\U0001F69A"
       button: Read up
       url: /test/
       image: /images/Guides.PNG
