@@ -1,0 +1,12 @@
+collections:
+  season-parking-guides:
+    output: true
+    order:
+      - new-application-images.md
+      - transfer-of-season-parking.md
+      - new-season-parking/.keep
+      - new-season-parking/how-to-buy-a-new-season-parking.md
+      - renew-season-parking/.keep
+      - renew-season-parking/how-to-renew-your-season-parking.md
+      - terminate-season-parking/.keep
+      - terminate-season-parking/how-to-terminate-my-season-parking.md
