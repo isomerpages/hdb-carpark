@@ -1,0 +1,5 @@
+collections:
+  seasonguides:
+    output: false
+    order:
+      - trial.md
